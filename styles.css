@@ -1,4 +1,6 @@
-
+body{
+    background-color: beige;
+}
 
 .container{
 
@@ -29,11 +31,12 @@
     height: 150px;
     width: 150px;
 
-    border: 1px solid black;
+    /* border: 1px solid black; */
+    text-align: center;
+    line-height: 150px;
 
 }
 .random-button{
-
 
     background-color: grey;
 }
